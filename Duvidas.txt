@@ -1,0 +1,24 @@
+Duvidas:
+- Registo de maquina serve appMNG 
+- appMNG Realiza ou serve envio de lista 
+- O envio de dados pode ser um seta flow ou tem de ser um quadrado a dizer envio de dados 
+- A lista dos pontos de carregamento \'e9 enviado para a maquina ou para o appCTR
+- appBCK como sendo componente aplicacional
+- componente aplicacional pode criar artefatos e um tecnology node pode os manipular
+
+
+
+
+
+
+
+necessário representar JBOSS/SQL
+serviço de restauro backups
+estrutura dos funcionários
+
+
+POR FAZER
+
+relações twin appMNG
+envio de avarias de twin para appMNG
+business process de manuntenção da máquina
