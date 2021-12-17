@@ -1,0 +1,7 @@
+Duvidas:
+
+- Relatório de intervenção como processo paralelo
+- Máquina estava a ser usada por arPRO quando o evento
+de início da primeira execução do processo foi gerado; ????????????????????
+
+
