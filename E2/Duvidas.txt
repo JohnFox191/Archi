@@ -4,4 +4,9 @@ Duvidas:
 - Máquina estava a ser usada por arPRO quando o evento
 de início da primeira execução do processo foi gerado; ????????????????????
 
+- Tratar o processo anterior como sendo um processo diferente. (Questão do cancelar processo anterior).
+
+- Dúvida do retomar processo (questão das 17h) - podemos ignorar a cena do desligar e ligar maquina?
+
+
 
